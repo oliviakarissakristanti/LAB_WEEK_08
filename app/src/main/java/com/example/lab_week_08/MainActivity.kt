@@ -12,7 +12,6 @@ import androidx.core.content.ContextCompat
 import androidx.work.*
 import com.example.lab_week_08.worker.FirstWorker
 import com.example.lab_week_08.worker.SecondWorker
-import com.example.lab_week_08.worker.ThirdWorker
 import java.util.concurrent.TimeUnit
 
 class MainActivity : AppCompatActivity() {
